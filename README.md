@@ -1,3 +1,5 @@
+Hello, Devs!!! 💻
+
 - 👋 O meu nome é Ednaldo, sejam bem vindos ao meu GitHub.
 
 - 👀 Estou aprendendo ainda, então vamos com calma.
