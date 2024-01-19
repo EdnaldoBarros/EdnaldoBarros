@@ -15,7 +15,7 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=1978A1)](mailto:ednaldohackti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%0000FF?style=for-the-badge&logo=linkedin&logoColor=1978A1)](https://www.linkedin.com/in/ednaldo-barros-da-silva-0209019b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=1978A1)](https://www.linkedin.com/in/ednaldo-barros-da-silva-0209019b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=1978A1)](https://discord.com/invite/S6BncRBp)
 
   <a href="https://www.instagram.com/barrosednaldolz?igsh=bnRid2o5NHZ5cDYw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
