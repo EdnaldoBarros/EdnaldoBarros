@@ -5,7 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=1978A1&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Ednaldo.;web+Developer!)](https:git.io/typing-svg)
 <br>
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,vscode,git,github)
+<div style="display: inline_block"><br>
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="40cm"
+  <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />![Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,vscode,git,github)
 <br>
 
 <br>
