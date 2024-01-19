@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=1978A1&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Ednaldo.;web+Developer!)](https:git.io/typing-svg)
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,vscode,git,github)]
+[Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,vscode,git,github)
 <br>
 
 <br>
