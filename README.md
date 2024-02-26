@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=1978A1&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Ednaldo.;web+Developer!)](https:git.io/typing-svg)
 <br>
-[!](https://github-readme-stats.vercel.app/api/top-langs/?username=EdnaldoBarros)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdnaldoBarros)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
