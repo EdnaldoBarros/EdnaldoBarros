@@ -11,7 +11,6 @@
 
 - Desenvolvimento Web com **HTML, CSS e JavaScript**
 - Prática com **VS Code**, **Git** e **GitHub**
-- Projetos reais para portfólio (como site de casamento e gerenciador de gastos)
 - Interesse futuro: **Kotlin** e desenvolvimento mobile
 
 ---
